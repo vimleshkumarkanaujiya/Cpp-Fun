@@ -1,2 +1,2 @@
-# C-Fun
+# C++ Fun
 C++ throbbing things
